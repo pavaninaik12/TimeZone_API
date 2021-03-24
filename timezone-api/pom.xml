@@ -38,7 +38,7 @@
 				<workerType>Micro</workerType>
 				<applicationName>WorldTimeZoneAPI</applicationName>
 				<password>Pavani123@</password>
-				<muleVersion>${mule.version}</muleVersion>
+				<muleVersion>4.1.4</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
